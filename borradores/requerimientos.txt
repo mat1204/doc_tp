@@ -1,6 +1,20 @@
+Fix price, Fix time
 forecast
 
-historias de uso:
+Titulo: Gestor de Recusos humanos y financieros
+
+historias de usuario:
 	- Abm de Empleados
+		- Empleados con sueldo bruto, obra social, fecha ingreso, aumentos de salario programados etc.
+
 	- Reporte de presupuesto
+		- Calculo de prespuesto de acuerdo a costos directos y sus variaciones a lo largo de un año.
+		- Calculo de coste para un mes en particular.
+
 	- Sistema de envio de mails
+		- Envio de por mes indicado aumentos.
+
+
+
+Requerimientos Funcionales:
+	-
