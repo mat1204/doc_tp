@@ -3,18 +3,15 @@ forecast
 
 Titulo: Gestor de Recusos humanos y financieros
 
-historias de usuario:
+Requerimientos Funcionales:
 	- Abm de Empleados
-		- Empleados con sueldo bruto, obra social, fecha ingreso, aumentos de salario programados etc.
+		- Empleados con sueldo bruto, obra social, fecha ingreso, programacion de aumentos etc.
 
-	- Reporte de presupuesto
+	- Control de presupuesto y reporte
 		- Calculo de prespuesto de acuerdo a costos directos y sus variaciones a lo largo de un año.
 		- Calculo de coste para un mes en particular.
+		- Edicion de sueldos 
+		- Resumen de Consolidado para todos los empleados mensual y anual.
 
 	- Sistema de envio de mails
-		- Envio de por mes indicado aumentos.
-
-
-
-Requerimientos Funcionales:
-	-
+		- Envio de por mes indicado aumento de sueldo programado para el mes corriente.

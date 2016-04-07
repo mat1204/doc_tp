@@ -1,11 +1,14 @@
 Empleado:
 	Nombre, Apellido, Fecha de Ingreso, Domicilio(key), Obra Social(key),
 
+
 Domicilio:
 	Direccion, telefono
 
+
 Obra Social:
 	nombre, tipo
+
 
 Salario:
 	Empleado(key), sueldoBruto

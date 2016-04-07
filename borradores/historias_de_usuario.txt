@@ -1,0 +1,8 @@
+Historias de Usuario:
+
+	- ABM de Emeplados:
+		Al ingresar al sistema se selecciona la funcion de gestion de empleados.
+		Se redirecciona a la pantalla pertinente, donde se vera un listado resumido con los empleados, ademas de la opcion de dar de alta.
+		Al seleccionar un empleado se ingresera a una vista con informacion detallada del mismo, con la opcion para editar o eliminar del sistema.
+
+	- Gestor de Reportes:
