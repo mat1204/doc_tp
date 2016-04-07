@@ -1,0 +1,6 @@
+forecast
+
+historias de uso:
+	- Abm de Empleados
+	- Reporte de presupuesto
+	- Sistema de envio de mails
