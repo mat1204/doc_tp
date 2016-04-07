@@ -1,10 +1,12 @@
 Empleado:
-	Nombre, Apellido, Fecha de Ingreso, Domicilio(key), Obra Social(key),
+	Nombre, Apellido, Fecha de Ingreso, Domicilio(key), Obra Social(key), email
 
 
 Domicilio:
-	Direccion, telefono
+	Empleado(key), Direccion, altura, codigo postal,
 
+Telfono
+	Empleado(key), numero
 
 Obra Social:
 	nombre, tipo

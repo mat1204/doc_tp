@@ -1,6 +1,3 @@
-Fix price, Fix time
-forecast
-
 Titulo: Gestor de Recusos humanos y financieros
 
 Requerimientos Funcionales:
