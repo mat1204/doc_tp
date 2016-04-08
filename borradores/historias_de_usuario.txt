@@ -1,8 +1,25 @@
 Historias de Usuario:
 
 	- ABM de Emeplados:
-		Al ingresar al sistema se selecciona la funcion de gestion de empleados.
-		Se redirecciona a la pantalla pertinente, donde se vera un listado resumido con los empleados, ademas de la opcion de dar de alta.
-		Al seleccionar un empleado se ingresera a una vista con informacion detallada del mismo, con la opcion para editar o eliminar del sistema.
+		Al ingresar al sistema se selecciona al modulo de gestion de empleados.
+		Se redirecciona a la pantalla pertinente, donde se vera un listado de los empleados. Indicando las posibilidades de alta, modificacion o edicion, existiendo filtros de busqueda por nombre, apellido y numero de documento.
+		Al seleccionar un empleado se ingresera a una vista con informacion detallada del mismo, con la opcion para editar o dar de baja del sistema.
 
 	- Gestor de Reportes:
+		Se ingresa al sistema, se selecciona el tipo de reporte a visualizar seleccionando previamente el periodo(Mensual, anual o indicando principio y fin de periodo):
+			Si se selecciona por empleado, el sistema mostrara un listado de empleados con la posibilidad busqueda filtrada por nombre y numero de documento, al seleccionar un empleado se visualizara un cuadro informando el gasto detallado mes a mes, ademas de visualizar el costo total anual, con la posibilidad de editar la variacion de salario para un mes en particular.
+
+			Si se selecciona consolidado, el sistema mostrara una grilla, representando cada fila el resumen de costos de empleado, con la posibilidad de seleccionar un empleado en particular e ingresar al detalle de ese empleado. Visualizando ademas el gasto total para el periodo seleccionado. 
+
+	- Notificaciones por emails:
+		Una vez al mes se recibiran notificaciones de las variaciones de sueldo programadas para el mes corriente, conteniendo ademas una link al sistema redireccionando al evento programarlo para confirmarlo, cancelarlo, o modificarlo.
+
+
+
+Posibles agregados:
+	Al ingresar a la primera pantalla del sistema, mostraba notificaciones correspodientes a eventos del mes corriente.
+
+
+Preguntas:
+	¿Que cuestiones de seguridad manejar?
+	¿Repositorio privado para el codigo fuente?

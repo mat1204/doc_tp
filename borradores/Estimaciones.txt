@@ -1,0 +1,30 @@
+Estimaciones:
+
+	- Reunion de requerimientos iniciales: 2 hs
+	- Analisis y obtencion de requerimientos funcioneales: 4 hs
+	- Confeccion de Historias de Usuario: 3 hs
+	- Validacion de historias de usuario con cliente: 1 hs
+
+	- Diseño de Entidades : 5 hs
+	- Validacion de Entidades: 1hs
+
+
+	- Crecion de entidades en Base de datos: ?
+	- Creacion de servidor con funcionando : ?
+	- Creacion de controladores para manejo de entidades: ?
+	- Documentacion de entidades: ?
+
+	- Creacion de controladores para manejo de negocio: ?
+	- Creacion de servicio de envio de emails: ?
+	- Test para controladores con Mocks: ?
+
+
+	- Diseño de Pantallas de front end: ?
+	- Creacion de front con funcionamiento: ?
+	- Creacion de pantallas: ?
+	- Creacion de controladores front end: ?
+	- Test de controladores front end: ?
+
+	- Creacion de manual de usuario: ?
+
+	- Creacion de plan de despliegue: ?
