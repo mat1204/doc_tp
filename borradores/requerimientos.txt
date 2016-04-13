@@ -8,7 +8,7 @@ Requerimientos Funcionales:
 		- Calculo de prespuesto de acuerdo a costos directos y sus variaciones a lo largo de un año.
 		- Calculo de coste para un mes en particular.
 		- Edicion manual de variaciones  sueldos 
-		- Resumen de Consolidado para todos los empleados mensual y anual.
+		- Reporte de Consolidado para todos los empleados mensual y anual.
 
 	- Sistema de envio de mails
 		- Envio de por mes indicado variaciones de sueldos programados para el mes corriente.

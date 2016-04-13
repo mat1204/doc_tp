@@ -22,4 +22,13 @@ Posibles agregados:
 
 Preguntas:
 	¿Que cuestiones de seguridad manejar?
+		ADMIN
+		USER
 	¿Repositorio privado para el codigo fuente?
+
+
+
+Como administraro; quiero dar de alta un empleado para ingresarlo a la nomina de redbee.
+acuerdo 1
+los datos de una personar debe ser:
+nombre,
