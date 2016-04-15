@@ -28,3 +28,20 @@ Estimaciones:
 	- Creacion de manual de usuario: ?
 
 	- Creacion de plan de despliegue: ?
+
+-----------------------------------------------------------------------------------------
+
+- Creacion de servidor:
+ - Configuracion SpringBoot
+   - Investigacion de documentacion y 
+ - Configuracion de Base de datos
+   - Investigacion de configuracion
+ - Diseño de entidades
+   - Relacion entre Entidades
+ - Implementacion de Entidades de Dominio
+   - Implementacion
+   - Configuracion de base datos
+ - Implementacion de Servicios Rest
+   - Definir Entidades publicadas
+   - Creacion de Controllers
+   - Implementar Servicios
