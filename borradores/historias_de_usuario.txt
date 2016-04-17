@@ -32,3 +32,27 @@ Como administraro; quiero dar de alta un empleado para ingresarlo a la nomina de
 acuerdo 1
 los datos de una personar debe ser:
 nombre,
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+ Historias de usuario rehechas.
+
+Como administrador; quiero dar de alta una persona para ingresarlo a la nomina de empleados de redbee.
+	- Los datos de un empleado son; Nombre, Apellido, Documento, Domicilio, Obra Social, Salario bruto inicial, fecha de ingreso, fecha de egreso.
+
+Puedo visualizar todos datos de un empleado pero solo editarlos siendo administrador.
+
+Puedo visualizar un reporte de los costos directos generados por empleado.
+	- Con los siguiente informacion mes a mes: sueldo bruto, variacion sueldo programada, remanente obra social.
+	- Informacion adicional costo de venta segun salario mes a mes: al 50, 70 y 100 %.
+
+Como administrador; puedo ver todas las variaciones de salarios programadas proximas a efectivizarce.
+	- Ademas puedo cancelar o programar nuevas variaciones de salarios.
+
+Puedo visualizar un reporte consolidado para todos los empleados.
+	- Por cada empleado indicar nombre y total de costos generados.
+	- Mostrar el total de costos.
+
+Debera enviarse un email si hubiera una variacion de sueldo programada para el/los empleado/s en el mes corriente.
+	- Indicando: salario bruto actual, variacion en porcentaje, nuevo salario bruto y anotación descriptiva.

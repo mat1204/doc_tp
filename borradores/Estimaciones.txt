@@ -30,18 +30,36 @@ Estimaciones:
 	- Creacion de plan de despliegue: ?
 
 -----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+*****************************************************************************************
+-----------------------------------------------------------------------------------------
+
+Iteracion 1)
 
 - Creacion de servidor:
- - Configuracion SpringBoot
-   - Investigacion de documentacion y 
- - Configuracion de Base de datos
-   - Investigacion de configuracion
- - Diseño de entidades
+   - Investigacion de framework
+   - Configuracion SpringBoot
+
+ - Base de datos
+   - Investigar acoplamiento con framework
+   - Configuracion
+   - Implementacion de Mocks para tests	
+
+ - Creacion de entidades
+   - Atributos de entidades
    - Relacion entre Entidades
+   - Creacion de Tablas en BDD
+   - Implementacion de Clases de Entitdad
+
  - Implementacion de Entidades de Dominio
    - Implementacion
    - Configuracion de base datos
- - Implementacion de Servicios Rest
+
+ - Creacion de Servicios Rest
    - Definir Entidades publicadas
-   - Creacion de Controllers
-   - Implementar Servicios
+   - Implementacion de Controllers
+   - Creacion Servicios
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Iteracion 2)
