@@ -1,6 +1,5 @@
 Empleado:
-	Nombre, Apellido, Fecha de Ingreso, Fecha Egreso, Domicilio(key), Obra Social(key), email
-
+	Nombre, Apellido, Fecha de Ingreso, Fecha Egreso, Domicilio(key), Obra Social(key), email, SalarioInicial, SalarioActual
 
 Domicilio:
 	Empleado(key), Direccion, altura, codigo postal,
@@ -12,12 +11,12 @@ Obra Social:
 	nombre, tipo
 
 
-Salario:
+VariacioesSalario:
 	Empleado(key), salarioBrutoActual, salarioAlIngreso
 
 
 VariacionesSalario:
-	Empleado(key), fechaProgramada, porcentaje,Estado, observacion
+	Empleado(key), fechaProgramada, porcentaje, Salario Actual , Estado, observacion
 
 	EstadoVaracion:
 		{ Pendiente , Cancelada, Realizada, }

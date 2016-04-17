@@ -51,10 +51,6 @@ Iteracion 1)
    - Creacion de Tablas en BDD
    - Implementacion de Clases de Entitdad
 
- - Implementacion de Entidades de Dominio
-   - Implementacion
-   - Configuracion de base datos
-
  - Creacion de Servicios Rest
    - Definir Entidades publicadas
    - Implementacion de Controllers
@@ -63,3 +59,99 @@ Iteracion 1)
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Iteracion 2)
+
+
+- Pantalla de inicio
+	- Diseño de pantalla
+	- Maquetado en HTML
+	- Implementacion Directivas en AngularJS
+	- Controllers en AngularJS
+	- Creacion de esqueleto para Modulos
+	- Aplicado de Estilos CSS
+
+Modulo Empleados
+	
+-Listado Empleados	
+	- Diseño de pantalla
+	- Maquetado en HTML
+	- Implementacion de Directivas
+	- Creacion de filtro de busqueda
+	- Implemetacion de Controllers
+	- Creacion y utilizacion de servicio REST
+	- Aplicar Estilos CSS
+
+- Alta y Vista de Empleado
+	- Diseño de pantalla/s
+	- Maquetado en HTML
+	- Implementacion/Reutilizacion de Directivas en formularios
+	- Implemetacion de Controllers en AngularJS
+	- Creacion y utilizacion de servicios REST
+	- Aplicar Estilos CSS
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Iteracion 3)
+
+Modulo de Reportes
+
+Backend
+- Diseño de Entidades de Dominio
+- Creacion de Tablas
+- Implementacion de Servicios de Rest
+- Creacion de Controllers
+- Creacion de test unitarios 
+- Creacion de test de integracion
+
+Front end
+Reporte por Empleado
+ - Diseño de Pagina 
+ - Maquetado HTML
+ - Creacion/Reutilizacion de Directivas AngularJS
+ - Implemetacion de Controllers JavaScript
+ - Creacion y utilizacion de servicios REST
+ - Aplicacion de Estilos CSS
+
+Reporte de Consolidado
+- Diseño de Pagina 
+ - Maquetado HTML
+ - Creacion/Reutilizacion de Directivas AngularJS
+ - Implemetacion de Controllers JavaScript
+ - Creacion y utilizacion de servicios REST
+ - Aplicacion de Estilos CSS
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Iteracion 4)
+
+Modulo Notificaciones via Email
+Backend
+ - Investigar procesos batch en framework
+ - Implemetacion de proceso.
+ - Creacion de Tablas de Usuarios.
+ - Implementacion de Servicios Rest.
+ - Tests unitarios
+ - Tests de integracion
+ - Creacion de Controllers.
+
+Frontend (Pantallas de Usuarios con emails activos)
+ - Diseño de pantalla
+ - Maquetado Html
+ - Creacion/Reutilizacion de directivas AngularJS
+ - Implementacion de Controllers
+ - Creacion y utilizacion de servicios REST
+
+
+Modulo de Login
+
+Backend
+ - Inversitagar modulos seguridad para framework
+ - Implementacion de Modulos de seguridad
+ - Creacion de tablas en BDD
+ - Implementacion en Controllers
+
+Frontend
+ - Diseño de pantalla
+ - Maquetado HTML
+ - Creacion/Reutilizacion de Directivas AngularJS
+ - Implementacion de Controllers JavaScript
+ - Aplicar Estilos CSS
