@@ -1,0 +1,9 @@
+Dudas
+
+1) Deberia usar Hibernate??
+
+2) Es igual que Gestor de Base de Datos utilice? Elegi MySql
+
+3) Conviene usar Spring MVC?
+
+4) 
