@@ -6,4 +6,4 @@ Dudas
 
 3) Conviene usar Spring MVC?
 
-4) 
+4) Alguna barrera mas de seguridad (tipo VPN) ademas del sistema de Login? 
