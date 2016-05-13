@@ -48,7 +48,7 @@ Empleado
   |	  |	  |--- NuevoSueldo
   |	  |	  |--- Observacion
   |	  |
-  |	  |---SalarioBrutoActual
+  |	  |---SalarioBrutoActual ( -> que apuente a ultimo salarios)
   |
   |---(1)ObraSocial
 
@@ -71,3 +71,7 @@ ObraSocial
   |---Importe
 
 
+
+
+Doser Spring (  para validaciones en updates y posiblemente altas )
+Projections ( para devolver representacion de datos en lugar de objetos DTO... )
