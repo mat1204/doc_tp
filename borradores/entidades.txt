@@ -1,11 +1,11 @@
 Empleado:
-	Nombre, Apellido, Fecha de Ingreso, Fecha Egreso, Domicilio(key), Obra Social(key), email, SalarioInicial, SalarioActual
+	Nombre, Apellido, Fecha de Ingreso, Fecha Egreso, Domicilio(key), Obra Social(key), email,
 
 Domicilio:
 	Empleado(key), Direccion, altura, codigo postal,
 
 Telfono
-	Empleado(key), numero
+	Empleado(key), numero, descripcion
 
 Obra Social:
 	nombre, tipo
@@ -20,3 +20,54 @@ VariacionesSalario:
 
 	EstadoVaracion:
 		{ Pendiente , Cancelada, Realizada, }
+
+
+
+
+
+------------------------------------------------------------------------
+Modelo de Entidades (1er Iteracion)
+
+Empleado
+  |---Nombre
+  |---Apellido
+  |---E-mail
+  |---Puesto
+  |	  |---Tipo
+  |	  |---Seniority
+  |
+  |---FechaIngreso
+  |---FechaEgreso
+  |---(*)Direccion
+  |---(*)Telefono
+  |---(1)Salario
+  |	  |
+  |	  |---(*)ActualizacionesRealizadas
+  |	  |	  |--- FechaActualizacion
+  |	  |	  |--- Porcentaje
+  |	  |	  |--- NuevoSueldo
+  |	  |	  |--- Observacion
+  |	  |
+  |	  |---SalarioBrutoActual
+  |
+  |---(1)ObraSocial
+
+
+VaracionesSalario
+  |---FechaProgramada
+  |---Porcentaje
+  |---Observacion
+  |---EstadoVariacion -- > { Pendiente, Realizada, Cancelada }
+  |---Tipo --> { Aumento, Bono, etc ... }
+  |---(1)Empleado
+
+
+ObraSocial
+  |---Nombre
+  |---(*)Actualizacion
+  |	   |---FechaActualizacion
+  |	   |---nuevoImporte
+  |---Tipo
+  |---Importe
+
+
