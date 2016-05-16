@@ -73,5 +73,5 @@ ObraSocial
 
 
 
-Doser Spring (  para validaciones en updates y posiblemente altas )
+Dozer Spring (  para validaciones en updates y posiblemente altas )
 Projections ( para devolver representacion de datos en lugar de objetos DTO... )
