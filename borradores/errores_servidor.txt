@@ -1,0 +1,14 @@
+Servidor:
+	- error generico : 500
+
+api/empleado { GET }  
+	- No existe : 404
+	- OK : 200
+
+api/empleado { POST }
+	- No tiene permisos para guardar : 403
+	- OK : 201
+
+api/empleado/:id { PUT}
+	- No existe : 404
+	- No tiene permisos para guardar : 403
