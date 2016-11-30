@@ -3,11 +3,12 @@
 [ ] servicio de usuario (mock)
 [ ] pantalla de usuario
 [ ] paginacion de listado de empleados
-[ ] abm de obra social(*)
-[O] pantalla de ingreso de empleado
+[O] abm de obra social(*)
+[X] pantalla de ingreso de empleado
 [ ] edicion de empleado (*)
-[ ] validaciones de pantalla de empleado (*)
-[ ] pantalla de view y edicion de empleado
+[O] validaciones de pantalla de empleado (*)
+[O] pantalla de view y edicion de empleado
+[X] pantallas de visualizacion de salario
 [X] mejorar datepicker
-[ ] servicio de notificaciones 
-[ ] itegracion de apis de con backend
+[X] servicio de notificaciones 
+[X] itegracion de apis de con backend
