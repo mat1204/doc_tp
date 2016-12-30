@@ -2,12 +2,12 @@
 [X] definir funcionamiento de menu dinamico de subheader
 [ ] servicio de usuario (mock)
 [ ] pantalla de usuario
-[ ] paginacion de listado de empleados
-[O] abm de obra social(*)
+[X] paginacion de listado de empleados
+[X] abm de obra social(*)
 [X] pantalla de ingreso de empleado
-[ ] edicion de empleado (*)
-[O] validaciones de pantalla de empleado (*)
-[O] pantalla de view y edicion de empleado
+[X] edicion de empleado (*)
+[X] validaciones de pantalla de empleado (*)
+[X] pantalla de view y edicion de empleado
 [X] pantallas de visualizacion de salario
 [X] mejorar datepicker
 [X] servicio de notificaciones 
