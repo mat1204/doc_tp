@@ -1,0 +1,5 @@
+Comentarios para logica de negocio:
+
+-(?) Al actuliazar el salario actual y no se poseen mas actualizaciones pendientes agregar una variacion de salario de X% para 6 meses en adelante de la fecha de la ultima actualizacion
+
+-
