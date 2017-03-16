@@ -3,6 +3,11 @@
 [ ] validación de no ingresar fecha variación de salario previo a fecha de ingreso
 [ ] indice en variacion de salario
 [ ] mejora en listado de variaciones en pantalla de salario de empleado
+
+# Nuevas
+
 [ ] Creacion de popup de Confirmacion de Acciones ( posible hacerlo con un modal )
 [ ] Mejorar la pantalla, para cuando no hay usuarios y se quiere acceder al consolidado
 [ ] unificar llamados a /api/** en front end
+[ ] Calcular subtotal en Consolidado
+[ ] Mostrar Valor de Venta de hora en reporte (al 80%, al 100% etc)
