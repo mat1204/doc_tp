@@ -11,3 +11,5 @@
 [ ] unificar llamados a /api/** en front end
 [ ] Calcular subtotal en Consolidado
 [ ] Mostrar Valor de Venta de hora en reporte (al 80%, al 100% etc)
+[ ] Indicar con mensaje de error si no hay ObraSociales vigentes ni Puesto al querer crear nuevo empleado
+[ ] Mejoras de ubicacion de componentes en pantalla de reporte de empleado
